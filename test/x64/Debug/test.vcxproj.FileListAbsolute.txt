@@ -1,0 +1,1 @@
+C:\Учёба\компиляция\test\x64\Debug\test.exe
