@@ -1,0 +1,1 @@
+C:\Учёба\компиляция\lexer\x64\Debug\lexer.exe
