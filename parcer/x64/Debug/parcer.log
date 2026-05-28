@@ -1,0 +1,139 @@
+﻿  parser.cpp
+C:\Учёба\компиляция\parcer\parser.cpp(232,42): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(232,42): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(232,63): error C2078: слишком много инициализаторов
+C:\Учёба\компиляция\parcer\parser.cpp(255,37): error C3861: tokenTypeName: идентификатор не найден
+C:\Учёба\компиляция\parcer\parser.cpp(256,46): error C3861: tokenTypeName: идентификатор не найден
+C:\Учёба\компиляция\parcer\parser.cpp(257,80): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(257,5): error C2660: Parser::addError: функция не принимает 1 аргументов
+C:\Учёба\компиляция\parcer\parser.h(262,10): message : см. объявление "Parser::addError"
+C:\Учёба\компиляция\parcer\parser.cpp(257,5): message : при попытке сопоставить список аргументов "(std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+C:\Учёба\компиляция\parcer\parser.cpp(258,47): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(269,37): error C2838: "KEYWORD": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(269,37): error C2065: KEYWORD: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(309,29): error C2838: "PREPROCESSOR": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(309,29): error C2065: PREPROCESSOR: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(314,30): error C2838: "PREPROCESSOR": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(314,30): error C2065: PREPROCESSOR: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(316,30): error C2838: "KEYWORD": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(316,30): error C2065: KEYWORD: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(318,50): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(318,50): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(320,34): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(320,34): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(328,42): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(327,13): error C2660: Parser::addError: функция не принимает 1 аргументов
+C:\Учёба\компиляция\parcer\parser.cpp(272,14): message : см. объявление "Parser::addError"
+C:\Учёба\компиляция\parcer\parser.cpp(327,13): message : при попытке сопоставить список аргументов "(std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+C:\Учёба\компиляция\parcer\parser.cpp(342,20): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(348,27): error C2838: "IDENTIFIER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(348,27): error C2065: IDENTIFIER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(350,97): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(350,9): error C2660: Parser::addError: функция не принимает 1 аргументов
+C:\Учёба\компиляция\parcer\parser.cpp(272,14): message : см. объявление "Parser::addError"
+C:\Учёба\компиляция\parcer\parser.cpp(350,9): message : при попытке сопоставить список аргументов "(const char [38])"
+C:\Учёба\компиляция\parcer\parser.cpp(355,26): error C2838: "IDENTIFIER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(355,26): error C2065: IDENTIFIER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(358,23): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(358,23): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(362,30): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(362,30): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(365,30): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(365,30): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(367,23): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(367,23): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(370,27): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(370,27): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(372,105): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(372,9): error C2660: Parser::addError: функция не принимает 1 аргументов
+C:\Учёба\компиляция\parcer\parser.cpp(272,14): message : см. объявление "Parser::addError"
+C:\Учёба\компиляция\parcer\parser.cpp(372,9): message : при попытке сопоставить список аргументов "(std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+C:\Учёба\компиляция\parcer\parser.cpp(383,20): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(391,27): error C2838: "IDENTIFIER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(391,27): error C2065: IDENTIFIER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(394,38): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(393,9): error C2660: Parser::addError: функция не принимает 1 аргументов
+C:\Учёба\компиляция\parcer\parser.cpp(272,14): message : см. объявление "Parser::addError"
+C:\Учёба\компиляция\parcer\parser.cpp(393,9): message : при попытке сопоставить список аргументов "(std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+C:\Учёба\компиляция\parcer\parser.cpp(404,20): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(407,27): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(407,27): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(414,30): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(414,30): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(417,27): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(417,27): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(418,138): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(418,9): error C2660: Parser::addError: функция не принимает 1 аргументов
+C:\Учёба\компиляция\parcer\parser.cpp(272,14): message : см. объявление "Parser::addError"
+C:\Учёба\компиляция\parcer\parser.cpp(418,9): message : при попытке сопоставить список аргументов "(const char [62])"
+C:\Учёба\компиляция\parcer\parser.cpp(428,20): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(430,26): error C2838: "PREPROCESSOR": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(430,26): error C2065: PREPROCESSOR: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(436,26): error C2838: "KEYWORD": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(436,26): error C2065: KEYWORD: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(437,26): error C2838: "KEYWORD": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(437,26): error C2065: KEYWORD: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(438,26): error C2838: "KEYWORD": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(438,26): error C2065: KEYWORD: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(439,26): error C2838: "KEYWORD": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(439,26): error C2065: KEYWORD: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(441,26): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(441,26): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(443,26): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(443,26): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(456,20): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(459,27): error C2838: "IDENTIFIER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(459,27): error C2065: IDENTIFIER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(462,62): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(461,9): error C2660: Parser::addError: функция не принимает 1 аргументов
+C:\Учёба\компиляция\parcer\parser.cpp(272,14): message : см. объявление "Parser::addError"
+C:\Учёба\компиляция\parcer\parser.cpp(461,9): message : при попытке сопоставить список аргументов "(std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+C:\Учёба\компиляция\parcer\parser.cpp(464,30): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(464,30): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(470,26): error C2838: "OPERATOR": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(470,26): error C2065: OPERATOR: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(475,39): error C2838: "OPERATOR": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(475,39): error C2065: OPERATOR: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(479,89): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(478,9): error C2660: Parser::addError: функция не принимает 1 аргументов
+C:\Учёба\компиляция\parcer\parser.cpp(272,14): message : см. объявление "Parser::addError"
+C:\Учёба\компиляция\parcer\parser.cpp(478,9): message : при попытке сопоставить список аргументов "(std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+C:\Учёба\компиляция\parcer\parser.cpp(484,27): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(484,27): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(486,62): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(485,9): error C2660: Parser::addError: функция не принимает 1 аргументов
+C:\Учёба\компиляция\parcer\parser.cpp(272,14): message : см. объявление "Parser::addError"
+C:\Учёба\компиляция\parcer\parser.cpp(485,9): message : при попытке сопоставить список аргументов "(std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+C:\Учёба\компиляция\parcer\parser.cpp(496,20): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(498,23): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(498,23): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(500,23): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(500,23): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(503,26): error C2838: "KEYWORD": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(503,26): error C2065: KEYWORD: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(514,20): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(516,23): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(516,23): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(518,23): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(518,23): error C2065: DELIMITER: необъявленный идентификатор
+C:\Учёба\компиляция\parcer\parser.cpp(526,20): error C2039: "line": не является членом "Token".
+C:\Учёба\компиляция\parcer\lexer.h(17,8): message : см. объявление "Token"
+C:\Учёба\компиляция\parcer\parser.cpp(528,23): error C2838: "DELIMITER": недопустимое полное имя в объявлении члена
+C:\Учёба\компиляция\parcer\parser.cpp(528,32): fatal  error C1003: число ошибок превышает 100; остановка компиляции
